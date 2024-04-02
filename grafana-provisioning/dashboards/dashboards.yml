@@ -1,0 +1,12 @@
+apiVersion: 1
+
+providers:
+  - name: "k6 Stress Test"
+    orgId: 1
+    folder: ""
+    type: file
+    disableDeletion: false
+    updateIntervalSeconds: 10
+    options:
+      path: /dashboard/k6.json
+      foldersFromFilesStructure: true
