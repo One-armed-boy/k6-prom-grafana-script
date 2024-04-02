@@ -23,4 +23,7 @@
 
 - localhost:13000 접속
 - id: admin, pw: admin, 비밀번호 변경 페이지 skip
-- 우측 패널에서 Dashboard 클릭
+- 좌측 패널에서 Dashboard 클릭
+
+## 대시보드 출처
+- https://grafana.com/grafana/dashboards/18030-k6-prometheus-native-histograms/
